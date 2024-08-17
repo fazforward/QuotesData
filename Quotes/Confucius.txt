@@ -55,7 +55,7 @@
 "The Man who says he can, and the man who says he can not.. Are both correct" -Confucius
 "Without knowing the force of words, it is impossible to know more." -Confucius
 "The superior man is modest in his speech, but exceeds in his actions." -Confucius
-"Tzu Chang asked Confucius about jen. Confucius said, ""If you can practice these five things with all the people, you can be called jen.""Tzu Chang asked what they were.Confucius said, ""Courtesy, generosity, honesty, persistence, and kindness.If you are courteous, you will not be disrespected; if you are generous, you will gain everything. If you are honest, people will rely on you. If you are persistent you will get results. If you are kind, you can employ people." -Confucius
+"Tzu Chang asked Confucius about jen. Confucius said, 'If you can practice these five things with all the people, you can be called jen.'Tzu Chang asked what they were.Confucius said, 'Courtesy, generosity, honesty, persistence, and kindness.If you are courteous, you will not be disrespected; if you are generous, you will gain everything. If you are honest, people will rely on you. If you are persistent you will get results. If you are kind, you can employ people." -Confucius
 "Have no friends not equal to yourself." -Confucius
 "Consideration for others is the basis of a good life, a good society." -Confucius
 "Never give a sword to a man who can't dance." -Confucius
@@ -237,7 +237,7 @@
 "You are not yet able to serve men, how can you serve spirits?" -Confucius
 "If I am walking with two people, both will be my teachers" -Confucius
 "Don't worry if you have no position: worry about making yourself worthy of one. Don't worry if you aren't known and admired: devote yourself to a life that deserves admiration." -Confucius
-"The Master said, ""I have not seen a person who loved virtue, or onewho hated what was not virtuous. He who loved virtue, would esteemnothing above it. He who hated what is not virtuous, would practicevirtue in such a way that he would not allow anything that is notvirtuous to approach his person.""Is any one able for one day to apply his strength to virtue? I havenot seen the case in which his strength would be insufficient.""Should there possibly be any such case, I have not seen it." -Confucius
+"The Master said, 'I have not seen a person who loved virtue, or onewho hated what was not virtuous. He who loved virtue, would esteemnothing above it. He who hated what is not virtuous, would practicevirtue in such a way that he would not allow anything that is notvirtuous to approach his person.'Is any one able for one day to apply his strength to virtue? I havenot seen the case in which his strength would be insufficient.'Should there possibly be any such case, I have not seen it." -Confucius
 "A conversa impregnada de vaidade e o pretensiosismo são raramente compatíveis com a virtude." -Confucius
 "Don't worry if you have no position: worry about making yourself worthy of one. Don't worry if you aren't known and admired: devote yourself to a life that deserves admiration." -Confucius
 "Wenn du weißt, behaupte, dass du es weißt. Und wenn du etwas nicht weißt, gib zu, dass du es nicht weißt. Das ist Wissen." -Confucius
@@ -326,7 +326,7 @@
 "The superior man is distressed by the limitations of his ability; he is not distressed by the fact that men do not recognize the ability that he has." -Confucius
 "Dimmi e dimenticherò. Mostrami e ricorderò. Coinvolgimi e capirò." -Confucius
 "الحكم يعني الإستقامة، ومن هو الشخص الذي يجرؤ على الانحراف إذا كنت مستقيماً." -Confucius
-"The philosopher Zeng said, ""I daily examine myself on three points: whether, in transacting business for others, I may have been not faithful; whether, in intercourse with friends, I may have been not sincere; whether I may have not mastered and practiced the instructions of my teacher." -Confucius
+"The philosopher Zeng said, 'I daily examine myself on three points: whether, in transacting business for others, I may have been not faithful; whether, in intercourse with friends, I may have been not sincere; whether I may have not mastered and practiced the instructions of my teacher." -Confucius
 "If the people be led by laws, and uniformity sought to be given them by punishments, they will try to avoid the punishment, but have no sense of shame. 2. 'If they be led by virtue, and uniformity sought to be given them by the rules of propriety, they will have the sense of shame, and moreover will become good." -Confucius
 "No matter how busy you think you are, you must find time for reading, or surrender yourself to self-chosen ignorance." -Confucius
 "He has not lived in vain who dies the day he is told about the Way" -Confucius
@@ -346,7 +346,7 @@
 "Vergiss Kränkungen, doch Vergiss Freundlichkeiten nie." -Confucius
 "Si vos parents tombent dans une faute, avertissez-les avec grande douceur. Si vous les voyez déterminés à ne pas suivre vos avis, redoublez vos témoignages de respect, sans vous opposer. Quand même ils vous maltraiteraient, n'en ayez aucun ressentiment. " -Confucius
 "To know what is first and what is last will lead near to what is taught in the Great Learning." -Confucius
-"Tsz-lu said to the Master, ""As the prince of Wei, sir, has been waiting for you to act for him in his government, what is it your intention to take in hand first?""""One thing of necessity,"" he answered ""the rectification of terms.""""That!"" exclaimed Tsz-lu. ""How far away you are, sir! Why such rectification?""""What a rustic you are, Tsz-lu!"" rejoined the Master. ""A gentleman would be a little reserved and reticent in matters which he does not understand. If terms be incorrect, language will be incongruous; and if language be incongruous, deeds will be imperfect. So, again, when deeds are imperfect, propriety and harmony cannot prevail, and when this is the case laws relating to crime will fail in their aim; and if these last so fail, the people will not know where to set hand or foot. Hence, a man of superior mind, certain first of his terms, is fitted to speak; and being certain of what he says can proceed upon it. In the language of such a person there is nothing heedlessly irregular and that is the sum of the matter." -Confucius
+"Tsz-lu said to the Master, 'As the prince of Wei, sir, has been waiting for you to act for him in his government, what is it your intention to take in hand first?''One thing of necessity,' he answered 'the rectification of terms.''That!' exclaimed Tsz-lu. 'How far away you are, sir! Why such rectification?''What a rustic you are, Tsz-lu!' rejoined the Master. 'A gentleman would be a little reserved and reticent in matters which he does not understand. If terms be incorrect, language will be incongruous; and if language be incongruous, deeds will be imperfect. So, again, when deeds are imperfect, propriety and harmony cannot prevail, and when this is the case laws relating to crime will fail in their aim; and if these last so fail, the people will not know where to set hand or foot. Hence, a man of superior mind, certain first of his terms, is fitted to speak; and being certain of what he says can proceed upon it. In the language of such a person there is nothing heedlessly irregular and that is the sum of the matter." -Confucius
 "Senza Fermezza, il gentiluomo non riscuote rispetto ed il suo sapere non sarà ascoltato. | Preconizzando lealtà e fidatezza, non avrà amici che sono simili a se stesso. | Non esiterà a correggere i suoi errori" -Confucius
 "Aquellos de espíritu superior entienden la justicia. Los ordinarios, el beneficio." -Confucius
 "What you don´t want done to yourself, do not do to others." -Confucius
@@ -373,7 +373,7 @@
 "Avant d'ouvrir la bouche, assure-toi que ce que tu vas dire est plus beau que le silence." -Confucius
 "子曰：「學而時習之　不亦說乎　有朋自遠方來　不亦樂乎　人不知而不慍　不亦君子乎」 — 論語" -Confucius
 "古之學者為己，今之學者為人" -Confucius
-"Confucius said, ""When good government prevails in the empire, ceremonies, music, and punitive military expeditions proceed from the son of Heaven. When bad government prevails in the empire, ceremonies, music, and punitive military expeditions proceed from the princes. When these things proceed from the princes, as a rule, the cases will be few in which they do not lose their power in ten generations. When they proceed from the great officers of the princes, as a rule, the case will be few in which they do not lose their power in five generations. When the subsidiary ministers of the great officers hold in their grasp the orders of the state, as a rule the cases will be few in which they do not lose their power in three generations. When right principles prevail in the kingdom, government will not be in the hands of the great officers. When right principles prevail in the kingdom, there will be no discussions among the common people.""16-2" -Confucius
+"Confucius said, 'When good government prevails in the empire, ceremonies, music, and punitive military expeditions proceed from the son of Heaven. When bad government prevails in the empire, ceremonies, music, and punitive military expeditions proceed from the princes. When these things proceed from the princes, as a rule, the cases will be few in which they do not lose their power in ten generations. When they proceed from the great officers of the princes, as a rule, the case will be few in which they do not lose their power in five generations. When the subsidiary ministers of the great officers hold in their grasp the orders of the state, as a rule the cases will be few in which they do not lose their power in three generations. When right principles prevail in the kingdom, government will not be in the hands of the great officers. When right principles prevail in the kingdom, there will be no discussions among the common people.'16-2" -Confucius
 "You yourself desire rank and standing; then help others to get rank and standing. You want to turn your merits to account; then help others to turn theirs to account." -Confucius
 "A man is great not because he hasn't failed; a man is great because failure hasn't stopped him." -Confucius
 "American beer like sex on boat. Both fucking close to water." -Confucius
@@ -480,7 +480,7 @@
 "15.15 The Master said, 'To demand much from oneself personally, and not overmuch from others, will keep ill will at a distance." -Confucius
 "Kebodohan bukanlah tidak tahu apa-apa, tetapi tidak mau belajar apa-apa." -Confucius
 "To know what you know and what you do not know, that is true knowledge." -Confucius
-"Confucius say ...""He who sleep with itchy butt wake with smelly finger." -Confucius
+"Confucius say ...'He who sleep with itchy butt wake with smelly finger." -Confucius
 "The Master said, A transmitter and not a maker, trusting in and loving antiquity, I venture to compare myself with our Old Peng." -Confucius
 "Bir ülkede iyi bir hükümet olduğunda, sözler de davranışlar da yüce ve gözü pektir. Kötü hükümet olduğunda, davranışlar yüce ve gözü pek olabilir ama sözlere kimi çekinceler konabilir." -Confucius
 "Lakukanlah sesuatu yang kamu sukai dan kamu tidak perlu bekerja sehari pun dalam hidupmu." -Confucius
@@ -515,7 +515,7 @@
 "Shredded Beef in Szechuan Sauce is the absolute shit!" -Confucius
 "Choose a job you love, and you will never have to work a day in your life" -Confucius
 "Donde hay educación no hay distinción de clases" -Confucius
-"Student - ""It is not that I do not delight in your Way, Master, it is simply that my strength is insufficient.""Confucius - ""Someone whose strength is genuinely insufficient collapses somewhere along the Way. As for you, you deliberately draw the line." -Confucius
+"Student - 'It is not that I do not delight in your Way, Master, it is simply that my strength is insufficient.'Confucius - 'Someone whose strength is genuinely insufficient collapses somewhere along the Way. As for you, you deliberately draw the line." -Confucius
 "Confucius stays within the secular sphere of individual, society, government, and history, rarely and tentatively venturing into matter known in other cultures as religious." -Confucius
 "An educated woman is a stupid woman" -Confucius
 "Better a diamond with a flaw than a pebble without" -Confucius
